@@ -1,2 +1,2 @@
 ###COMANDOS###
-
+npx react-native@latest init mobile -- template react-native-template-typescript
