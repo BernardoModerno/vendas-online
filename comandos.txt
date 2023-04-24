@@ -1,3 +1,4 @@
 ###COMANDOS###
 npx react-native@latest init mobile -- template react-native-template-typescript
 npm install --save-dev @typescript-eslint/eslint-plugin @typescript-eslint/parser eslint eslint-config-prettier eslint-plugin-import eslint-plugin-prettier eslint-plugin-react eslint-plugin-simple-import-sort pre-commit prettier
+npm install styled-components
